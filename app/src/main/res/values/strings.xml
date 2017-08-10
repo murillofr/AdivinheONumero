@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AdivinheONumero</string>
+    <string name="app_name">Adivinhe O número</string>
+    <string name="texto">Digite um número</string>
 </resources>
